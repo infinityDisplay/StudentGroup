@@ -1,0 +1,16 @@
+C:\Users\romm8\Desktop\StudentGroup\StudentGroup\StudentGroup\bin\Debug\net5.0\StudentGroup.exe
+C:\Users\romm8\Desktop\StudentGroup\StudentGroup\StudentGroup\bin\Debug\net5.0\StudentGroup.deps.json
+C:\Users\romm8\Desktop\StudentGroup\StudentGroup\StudentGroup\bin\Debug\net5.0\StudentGroup.runtimeconfig.json
+C:\Users\romm8\Desktop\StudentGroup\StudentGroup\StudentGroup\bin\Debug\net5.0\StudentGroup.runtimeconfig.dev.json
+C:\Users\romm8\Desktop\StudentGroup\StudentGroup\StudentGroup\bin\Debug\net5.0\StudentGroup.dll
+C:\Users\romm8\Desktop\StudentGroup\StudentGroup\StudentGroup\bin\Debug\net5.0\ref\StudentGroup.dll
+C:\Users\romm8\Desktop\StudentGroup\StudentGroup\StudentGroup\bin\Debug\net5.0\StudentGroup.pdb
+C:\Users\romm8\Desktop\StudentGroup\StudentGroup\StudentGroup\obj\Debug\net5.0\StudentGroup.csprojAssemblyReference.cache
+C:\Users\romm8\Desktop\StudentGroup\StudentGroup\StudentGroup\obj\Debug\net5.0\StudentGroup.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\romm8\Desktop\StudentGroup\StudentGroup\StudentGroup\obj\Debug\net5.0\StudentGroup.AssemblyInfoInputs.cache
+C:\Users\romm8\Desktop\StudentGroup\StudentGroup\StudentGroup\obj\Debug\net5.0\StudentGroup.AssemblyInfo.cs
+C:\Users\romm8\Desktop\StudentGroup\StudentGroup\StudentGroup\obj\Debug\net5.0\StudentGroup.csproj.CoreCompileInputs.cache
+C:\Users\romm8\Desktop\StudentGroup\StudentGroup\StudentGroup\obj\Debug\net5.0\StudentGroup.dll
+C:\Users\romm8\Desktop\StudentGroup\StudentGroup\StudentGroup\obj\Debug\net5.0\ref\StudentGroup.dll
+C:\Users\romm8\Desktop\StudentGroup\StudentGroup\StudentGroup\obj\Debug\net5.0\StudentGroup.pdb
+C:\Users\romm8\Desktop\StudentGroup\StudentGroup\StudentGroup\obj\Debug\net5.0\StudentGroup.genruntimeconfig.cache
